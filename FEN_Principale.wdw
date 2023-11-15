@@ -1,0 +1,294 @@
+#To edit and compare internal_properties, use WINDEV integrated tools.
+#Internal properties refer to the properties of controls in windows, reports, etc.
+info :
+ name : FEN_Principale
+ major_version : 28
+ minor_version : 0
+ type : 2
+ description : ""
+ subtype : 0
+window :
+ name : FEN_Principale
+ identifier : 0x2b06da9f0df2cc36
+ internal_properties : CAAAAAgAAAC8hBDXZo/yWgyjVwUwoprYeK4r8Zne/Mi0WHltS2wYFF3zZlTIof7DyE5wb/ZgBWqhhSoU+CoaZXMHYY+4b//agAi/0efGAWi2cmrx5VFCZCBzFjIXcEQKYzsnDAPCPkV0NBQU+qJxGr2MRS7iTVT+B8AMuY7jEy+HQT+OQPJTCqasErq3sOzY/ngQNzlDpANdCJNcrPBFYM05ZuZIdRSm6WNAhl4xJm4GGiRyWy9basEnFBihZg2DRqszIzQWNUardQ7d+5H9ky90GLsDvIYPSC2bOBtQDbk3gIZCaUAO1tQ0k2gbk8adDWvshHrdD2pAxpDtDpLTvdldUtZhJxLRtledEi/uSeNohGSEzPcXjeq1KVehEk/IZJU1Wn9885DElXvZIe7Tpnv+JfL/RJM90Q7A79foK86vjBWE6fTXJ/cuBCK0bi20b0j4IXHNdRySiBd6OhWo6YkZx8N5XA9hxdSm3l6tQIZOWaXOwEIBh/LF8+KYIpWoqfkBlcO+wGJo5i7FXf1ufNL3gPsnf9lIBBFwfs4Mgia3OjlAAXGZb1V6WU6GvdPGxIc5P7NxW9CwMq7hP0nNBc8q6WacN0Cj9qcNKIbgDZWFrlz3E+9eXBky+ZCi4d+1mXkFWkaR7CffCuKc3rJP/L7b3AmKdK5CmSiGJSOAS0wIO8JxheVh7G4k68+AghV5T7eMMrgQrQ2QkBwf/wwEkMninWq0Sk5jLQj/U8iEs+k96CMSEqrXk9vJXNkOErTtZe6goSlkpECvipirs0/+8rSDAcniMb42ogi+g55NsCoZAK6N4ykCAYkHJLVGd3/tVA9gew==
+ properties :
+  width : 490
+  height : 325
+  widthClient : 488
+  heightClient : 293
+ controls :
+  -
+    name : SAI_DONNEE_PARTAGE
+    identifier : 0x2b06db520f0c8834
+    internal_properties : CAAAAAgAAACaapgAX9iu9yNaHwJq4ECXvwv3ZjCr0CEvruO+Ho3N83kmya+ENlI7AEnYrMWI4fDM3odESjn9iadbXvCF61o7Pi8bBhktsoU2P6zXA2f4X1bHAp8SeREmNsdKk2p6r7dP/iF4hQD7IgXdOOcmZzQInpr+adF4dkX/IwTCqIQmHe26qOXSTdGP6jWFlA2TNUP/4PlTm//heTdcjJpsrNjmQhwdz4PkLqedSaERWS//gq4iPeXuwtyPJRiVwmo1mZWZjDjRFf1ngzH/A31EWdvk8+VfSN8I6Cz9NdB0VMbVK6cZ/cXiul49J7tiZpYOqDjNFSrbnfVvB1o8e4yIOvs+S7YKWloDXio5RImdcUN2eFrf2RK1kM8R0CMwpuLT5/mbtKK2mZCO1yOOb4PmGEnvRNAY7G3Y3Z1PQt9iMXwRw9OSUrBKu0FAD/P9goUAcehsQmxAHJFY9xiPb80Ek22Dvcd/ndobE4g6iWv/583rWZOwpqNoK4KHrJVPLalHFk1HsRVsKYsqCBM5db/MyoNZMv2eNF8oHbwUZQ2p/SyWVbFDDapJrSClcQzFF8If95AtFXTmzw+uzgFF9ZJXxxV8Z2+j5X5mX6N7kSIrfcqdsLEGSIz8uOP0JI2caaXoVSpbUUM4VcYDjPZ0M9Y/Yvf1DZv9Rnrye20ro8q08WT5Wcljvl5ICBjfBj9AiOY5FfK2DxktLcjLeKXy4zZP2TQeCFm04/9vx8mdpjy71yYXidqu+JnwhQ4MWFzJrICGdbbWeSn5kMYh76W708Z49gmsOTtecO65g+0W42ybRYBcnoqBWGzYHu0zNjyNGyf6EppNUod/VzHqLgItSeL21i8xmZ5yZC4G6cYfMLo2JaHwfDO6JpJIaXvdI+DQK7gLK22JH4TlLeSkX11bWBju31amikYZrhL2V/DV2hFoN4N/P/swtu6u309c/mE6I+WFeCyukkJnJZ7ihaNUTa7pToM3KseesnPhXyznVWvFDsU6jS+qE1HHyW5xogpO1JW2LLRFkuErQwd+bLMfkR8y26KQy1wg4LEKzSZPp1MeLIUrHY9I6nsGGJOe+PYEnRCVuQpsVwbGBUimpXDBH0sfWrIaLZtaYJJfQ8p4CXbfXnWrnDHzhLP9HbNq3gb9bTBC6VNzwRRtPGtP+G6dY3cZhVWUNSgYbT4eItho5MoamRMgY9wku6Hc9MJ/Ac8K3ZiP34dXWljyZ0rhjumEPNfyOe2WvDv82t35GrgXpdG/TqeoKdkxDUjiEDPbLXKjAa1NXTlXzCI/bBTi2evNMXJe2sT+vJVP7nMze7uDSNEErIZeAlL99V/dePn/ktVA4Xu5MnNoDWwIfpI7ZkSI/WftYFwCwwMmHzsNBtX+isGWo6wot40FqxPbzPgUgMltUCo5yYuvSd9HHUx/ctq1Rl0=
+    properties :
+     x : 31
+     y : 48
+     width : 342
+     height : 41
+    type : 2
+    code_elements :
+     type_code : 3
+     p_codes :
+      -
+        type : 276
+        enabled : false
+      -
+        type : 277
+        enabled : false
+      -
+        type : 278
+        enabled : false
+  -
+    name : BTN_PARTAGER
+    identifier : 0x2b06db8b1e776614
+    internal_properties : CAAAAAgAAAB/gMlcXUIbpopGN/do8dztHnANvY5IpbZfUR+5wXWLVWs/0CcWfK5sVwgwLLsmX75aD9gJxWtfFnwAqHTML2u5/faIOXM08CjKT3tzSlHBAWkJemIwTrjH5KA1OnBVX6XWGqjJnkp9Ip5m7M+k8pmHxCWjzJ12pzfYJGbvGq2z0OiYN3HoM1ErTOXa0CRCJFnbb+2ixrAFG90PaRyuZh4GzOFOqrzYzHtiu6VFZ0qn56fUVPq2UUKPuzHmm1vaga1KrIKK4wL1Q6C4RO0A3jDwDZRNiaGEzfuqDzAT/KAJgTVSsIoiTKwHZ7wkewbMyQRaKyu96W3803I7Qp3sImjvt2VeOiHSpO2e7j5jxiYkLAW+pcNlamn9zHzk7E3GiBW3xEmU1xgiaeNGXAR67GcPRiJ1sGz0vxSxPGap0QU3mGbFoLQ9OcfXl0Vtggwk32zdmkOniXzfpZKLUowejaaGYXL1laqijgU5cBAxW+BRhJvt2H6XxwDQri0zwp5SUiSn3NjmL780ub6gpSZIAFj7mzEqyHTFvHnITXaGTHBJCm/oJmrcnd9+34Y0g+bTjFznkXzTvHHrdD6lpmXzvk1qdXXSbZMRPXKb6I/srzWYqAiQdAr7ZY4WUT9Rk1uqjpc7FGni6DR8DIoaewWRrqE8xQTCCr7BwiNyb/CT58kGF50bBOf5BoGvLTPncem4pPIC0rZnrTm0QpHH1wJ6GYnFXWtwvjDJVzi7R/SHgItoAu4HqWJ7Wuyn9TGF8HNfAV3uHCMHBbOkYSwAVTJlzPxBJWx/L2Xomz67F341wcgaq9hEfqeWdri7hOy3m+MSn2WZAQa5h6Bom4FOfeqqK+ASZAqWorD5eXmKeVq/4RFWL8U/3FxY3p+kOaNRFiIyEgHpTtnj99wILEOackk08SAr2TSteUR33c412EFKgmoQcqooXBBhHZm7BLmE9dVoLwlcJ27sWA==
+    properties :
+     x : 379
+     y : 64
+     width : 80
+     height : 24
+    type : 4
+    code_elements :
+     type_code : 4
+     p_codes :
+      -
+        internal_properties : CAAAAAgAAABvSX61oWMh8vsAO864Q6C5X4EkMPhRg2cT/k+khNHH5yWIjmxrdGnhrC8/8FTipc5D/lKcgLhgskgXnsOS3pz+F9/icU8SLn7e+GiCyND2xBU3Jhl8qbw9ivqL0vEXpU6P471vbLyKLiCyUwg=
+        code : |1-
+         
+         // Variable
+         nHandle est un entier
+         
+         // Vérification
+         SI SAI_DONNEE_PARTAGE ~= "" ALORS
+         	Erreur(<§$0007§>)
+         	RepriseSaisie(SAI_DONNEE_PARTAGE)
+         FIN
+         
+         // Ecrit en mémoire
+         nHandle = fMemOuvre(ZONE_MEMOIRE_NOM, ZONE_MEMOIRE_TAILLE)
+         fEcrit(nHandle,SAI_DONNEE_PARTAGE, ZONE_MEMOIRE_TAILLE)
+         	
+         Info(<§$0006§>)
+        type : 18
+      -
+        type : 161
+        enabled : false
+  -
+    name : BTN_LANCER
+    identifier : 0x2b06deca3f4914ca
+    internal_properties : CAAAAAgAAABjl9kJIt7icVHjwCRYd1AXAsf5km+lba9NTd6Lv8X5KSa2ErScZzd3U2E1LKIRbsDKak8FQgDbOcOs/QIAqTSDQAarZhSpu51NUurHQMyoGOC6d4KtdvFZcEooutp1pkmA6KZQZHsNGFb0fID9Wu2JkbxMb07DlXnrTvi6I0vEygVjZBAbmDLYg+bfKMwPiaOIK05ROZ10ORqJw3cN8WAs6HBZk6/kYF6eEoeP5sQFeI8aM+RR68LUtpWWu2yUf09IpsK8nOWwqSmn4izpHX81WKEOdo7N9W9hsXMAKjMa6TRT8G3pms9GV7T0c8AiOLEHHarmBOTM0G+rKwGFGTbtG31fM5vAPUpiWQ1lMSmpf2uwSbIXvi1Orxz/GELtvBlvsYXZ4pdGcHYKfnnj9DJUtiImFuXb6alJD+POqekeAgv3YlXFv4itPx4oz8SOv3mivSjhIp05YjybnwfLSY55lKIYnw8P6bX2adUh0BqPgk7MmqMzrXp2MBFKyfwNjMQwTksk4hMVu7ONP39y7+5hY+NZZp/cMhw9c2MPDmlk7aYr2XpFU2qr8MyTSNXOh0dkMW2xI9J+/ATmCtWKTRhJ9p/7aXQMHlLhmQJ1qZfKyHxt/jcULilyvwuKYJ/iysNrpcXMPYsRYqabwSGeZXT9iKp57CO2IQ7z8zsOwWGSJxB/r+dqiWqZlbZhhbTZMXEmnZgN6sAz4dZfPFsaK5NtAXayTYaPxfswiW+ANBdlZgdJszrfF6ObEJmi371BMfOAR8dOuY0lb5YXZ4jE5y+g9pYYnYZfsFw3yGFilUIsobhv/zsahnLwQBZjkQjqecQKA3QvPj7mW2I7iTwYOS/mYFAU8XWC6jPlcjmdhIS1srMPaelHJ+KRxqg6pEUrOPmdiQFsBSnlr6Y+CUxJ4h1O76ERfAyDK81aMTcYP7Aj7Smuyj8wgdPW/BoWPUYz4MqsmAULk0ThQ6l4bjzxaOqDXIp7MR47MY+40Bli79MoKD4wGtdAALz1DjEhY6DOY4tnTt4=
+    properties :
+     x : 87
+     y : 199
+     width : 334
+     height : 26
+    type : 4
+    code_elements :
+     type_code : 4
+     p_codes :
+      -
+        internal_properties : CAAAAAgAAABBCIBMNaO8Yx84JZv02PwlGJIAVguk9/kLqBLk4L8751Bd0fkGnTN/FHdEJRfiyebng4nPqht4y3r7q8wluU/WtgoMluXCZBaeX7mI8DCL8ixRcJSOMhTDVp9qprqUBzn+ovVdV0JSYYP2s/jVKEZ++bAg8EoDAHQZdlqTtePOTQ==
+        code : |1-
+         
+         // Variable
+         sCheminExe est une chaine = fRepEnCours() + ["\"] + ProjetInfo(piNomProjet) + ".exe"
+         
+         // Lance une autre session qui va essayer de lire la zone mémoire au lancement
+         SI fFichierExiste(sCheminExe) ALORS
+         	LanceAppli(fRepEnCours() + ["\"] + ProjetInfo(piNomProjet) + ".exe /LECTURE=1")
+         SINON
+         	Erreur("Vous devez d'abord générer l'exécutable de ce projet")
+         FIN
+        type : 18
+      -
+        type : 161
+        enabled : false
+  -
+    name : BTN_LIRE
+    identifier : 0x2b06def54343bbe1
+    internal_properties : CAAAAAgAAACpCmynvake3CO1zDtveF9Utvr//TChXDl3kVHaA9HYEBepN9SMYPdyRrxW3rTUgPBeTfKDuQgfw0EkDXUtXcMkf8kht+WLPhKOiY92RXg5w0bzKPm3wScRFozWsCM26H845WGEvshwnhDV3kCqUAt9IpvV7MP+mF+9wapYN9rWlhDMW+2UMK+xO5YbVrvvebp00gwliIqHM0I4JSgHxbY059RYdCxvS7ZatrtxK4j32aBFhzA8Jn4YV+57lf/2lFoUH74h33+tM9bPAjg/6u3N+hp3fs1bcVRpQgrHiIC3oOLqy+ZN1XB6k6g8YUw1w6yuaswNBXUbwRdGU645MPNXxLBD/Zb3Be7/s3CD5WzIUSR/kuXqQgc7zpZh9mOYQKmfsIkUJ4LbYsnD0AiLEczOlPdGpoFJPxFH+pIsbuv4wsvgb/HCjSswTNf5aoHIm/iPin+rcdSKj1CWFtIe2czTI7XO1owzwBQVdOPXosrrDhoAMGEiQbzQG9kKC5sLjdkeNC04g6N7tXdGflqaHg/occ5IpPb67o9864VFtNgCIUOc5En3GUh4HrwTKmPJqSYaSOJo/lqvU2W6VC4FjcuIxOsPDPQe5C/132BL+h8MjgkW4GDhnlqx6+AHM3/fi5WXBsIs7TcTiiX0j5pQfhdBaXMLb2AUbvP57JmP4mgU2lZxm9cvFb1uxsdbwob5AHcYqYEL0z7WdoWNN03z4P5HGKKk0i9pqSUkGESf/PSncBppypYkkMzvEFU3NCl03J/3AnAmHFdsBdCflbic8l47DPGwRF7AOTIw7iI5uvjap6d6wDIR6bsqPBA8htkHMuK8Ryfz/b3DRGYJ9duUUPHalVJAkgIurw3hOt69XOQIFG9w8L3AH1IrasS+IhAZfTg0z94wwOltftglcbrJveQEDYDMBcmC6I1tubY71IZwewLswrdVRoiZ
+    properties :
+     x : 87
+     y : 169
+     width : 334
+     height : 24
+    type : 4
+    code_elements :
+     type_code : 4
+     p_codes :
+      -
+        code : |1-
+         
+         // Est ce que la zone mémoire existe ?
+         SI fMemExiste(ZONE_MEMOIRE_NOM) ALORS
+         	nHandle est un entier = fMemOuvre(ZONE_MEMOIRE_NOM, ZONE_MEMOIRE_TAILLE)
+         	Info(<§$0002§>+RC, fLit(nHandle, ZONE_MEMOIRE_TAILLE))
+         SINON
+         	Erreur(<§$0001§>)
+         FIN
+        type : 18
+      -
+        type : 161
+        enabled : false
+  -
+    name : LIB_DONEE_PARTAGE
+    identifier : 0x2b0d168e0fc7b2b5
+    internal_properties : CAAAAAgAAACgSLwWN7es5QQnLm3Ej9OkTvSPVsAXBJ5Ueraatnr9tr39vjYiZdYUmwh0uPuNDxNSVyM11qP90t4YMoiFjUl2SUs9JKTHWLt9PeuxNZ0PWfDRD0nEodbRre1nXFyHPLH+PB3gXAHPNnum0esNpa/PXBTIjUQjZFE7ThfPZqO9wsMP58yXvepvARTPvG4Y9+Wh+vcxGEMasO/TdbWz/aZV7Q0BRvBDFxpIb4ixsfVdru1r7EOCp1Q6qILlJOk722dfDsC0ylHMI/Qmjfdf6oMnCd07Hj29G9WBHK0MZxeWo0SSMUmLmtQ7FUPLmS7LKQvHsjxP1VKOptZQJsiZYCGamV7cZ5ZC/mFYn3GeQNydVb8UPTeprW8w5lBx2r4rX9ShoVJNvSTvW+kIz4ftKeHcQjSf4SLkFFdhOEDB0XAcF2VvEfg+XsFLV8nJh6gK4CIl25BioKI9Rbdft/yAxnDYyjH/Q0nZWotfNkmM3R/RKTMhT8pe5pLy5lpUzFSnAGntH7zcispfgA1Wnvo7o5awQGGOJbNV7BSiOmLBlrQPMf3rxxv1rqCaKhbV9yCYzd+DhzVnogLunm7TjvN1rxPDJAqoS2C/aPiZvFa3VvqEWlKhFiLTYZNl1li+DtrxNjOdqQ==
+    properties :
+     x : 5
+     y : 6
+     width : 481
+     height : 112
+    type : 3
+    code_elements :
+     type_code : 2
+     p_codes : []
+  -
+    name : LIB_LECTURE_DONNEES
+    identifier : 0x2b0d17212151f032
+    internal_properties : CAAAAAgAAADw26pwNZsaODfB3TGRwkYf7O0Qi62yrdC6bxMJGHJR5lBTG+xjPvxJorRLEv2Yf8JAhf0+5e/zFb1R4L2XCR4xdpBQQcjaJyXon4oGeMXZ5Nrh2aeMjT7R0FvASgwYUFA4LTrZL7eyaYmlbV2en9KQ24+kiuq5+Ht4uaUA3tZhnsVSyWNMncyV5EqmyS8mpqV986xIZ7Eyl85qEdmc/mrbrDGIDGtuhknQSS1H25MSbB+o1lrgGhnqdiF5NFZvPaC6g2J4Y2s9QFJgHjjy2dm2PxXVEuqrH6iGHEXszMQYkI6cSU3VHFXU4rcEYBSZy9mIGEFNHNGAL4q6J0vP90a+b7YTtWExvrCOfXQXdkl6WXkentnu3jEHMuJ2UZLUBCDTJUvJbq21mq9g3M43WmikwOh8d43z5oIhcDkUL/9T2WFj9oaHnz/oBQk8iOBtqaJ/aaPqCetjLFWjlDOc73E07EMskfD0bJC/ulD5N2gy48dDMtR3A9a1VvxjQcKO72wohqDmYPwjMU7KqStZZvyTbwCWwbwrVB2gjLewBxvrepqW/zxovhLBt0P9A5N0UzqBk575gIfcHrNuSzmwuccQTGdSYz9R5QgkGWf6X7qbqtVBJhQTquk=
+    properties :
+     x : 5
+     y : 124
+     width : 481
+     height : 128
+    type : 3
+    code_elements :
+     type_code : 2
+     p_codes : []
+  -
+    name : BTN_Fermer
+    identifier : 0x2b0d176b29ee105f
+    internal_properties : CAAAAAgAAADhTKzelhpOmRyF5f46/9Fx9XoJM537huyJPN69Hq2IK8BCIjLYoGLwE59+IdDTfsfJbgM4yPrhlz9RGZ4HeyRxVniMMbmKALXTt5VvRmnuG+DSk1qtvY11urAS5uhgGaVtVJAGHrfEtOFS2yeqdHi1bVqW4kJYpTOvWdu13BVrlKRQRxxvI3jN2pjkXqD+fMPKfAvD08eLQ+YvrNALCzSP3UcVj/0J293NBHhcr4tjUNJQJT98DyZ4+9PrDNWwP3KmM1/fl/lR5JFeH7cNVCiV7pB38MOTYqVU2Tzyngx99UbUjWrKfesY5JHrVHXla6mKvD4Bcqc/DYtcPsrUEwk6dPXJAupEGEEp4QVoT09l0LAmzm1oyYWvyuRB1fzRooEhDF8iamCWOB2L0EdemjmftW49jLBRInlLMDvRNdbWn07yuWmQw14GyDo+szI/Jw4RdL0Fb/naQqIzeBOFA4HB/KkHDQ4jwF3L+g3F3WxyY3Yfli9KO84ZEnMIPibePvJWuZy0ZQUaSp6K5pq0TDxvqm72HweZM1raK8Xl5p8zzM9ZFLjmXT35A7ojegEBpj2ge1PITg7jyIZz/kdyUkfaKLE5C9lp14D19HlKjeZbxmyo5J84XdgiJwfdBU+8SRcnHl72CatrUjROTT8UJDiTzea7AvZjO2JKtckL9pzsw9Eb+YfPermxvkLZ5R47X2QiapgzLvz3GRcf7VPRXdgxZI75q4y6kmmDfYaGdHnwF3ZO7V/13v5eavsDv64LVcwc7v/v4IdqPtwTgcdC2EYPyohqprwOU576979vzmh4g7Ks3KarOeD7k1PV6UwZgp06KRI6kenRB2DQOVNra0m2kDj9KGWYAcyrH2SWJ6zjM3lxhN1lDdYGPby21pLYxsgUg6VTesJHmkS7nN1Wch3IwYrcCplK4mc=
+    properties :
+     x : 399
+     y : 258
+     width : 80
+     height : 24
+    type : 4
+    code_elements :
+     type_code : 4
+     p_codes :
+      -
+        internal_properties : CAAAAAgAAADQZyvpRjJZltgKBVFD+SKMukTEU1n2G2jmPSjnx1ZKdSF2vB36egNKcReVrz/xwpIZdIpZoyUu0CjPxu+MpGLAedmE/39iAmJIcu72BpKoWkpseLXy2lnJGPSMFw==
+        type : 18
+      -
+        type : 161
+        enabled : false
+ menu :
+  name : _Menu
+  identifier : 0x2b06da9f0df4cc36
+  internal_properties : CAAAAAgAAADAfZ27Q+jJ/MBXHLGCb7PyE2Yqjvuo9mAX2ZN+LLuyQtzms1431znXR0sNCCeLESXZp1gqmo+m2mUhb2ELR2phZ8VOgUSyXddfQyxpxffipvH/iiFuFkCLgpjx1Ah9/9/ndeRpWb0s9Qcjy8oPtW3aMcRtuglgDe5Ch9/jnC/Drp19/hhf+qz96diLw5T0yWlzg33c/E8hhMwUBdSOV69/8iDQGLfTvLoTvV3YkiQ5Dce7dxB2gUx1AVvVTykQMm7G+0haIOV568KMGgPEJluRN2XjgQ11Tb8vVxt6P2g=
+  options : []
+ languages :
+  - fr-FR
+ popup_menus : []
+ message_bar :
+  internal_properties : CAAAAAgAAAAjFWXItEk/EPvcbGR+hALkgRfdOpVtIn+yZNxHnmSRFJegE/AnD2HbGAaMfhGCqfzkryHG9FVhjtF+iQYkZ59QBQ88Okhh0vjCoVhOagox2hvIqrJnU30QK15/ZA==
+ actionbar : {}
+ code_elements :
+  internal_properties : CAAAAAgAAADMBdv6je/v8dNEuY+KYbGtUnni2RTxCIWxCmkFdH2x+bEV3SS9FFPVXVhMRS1Yt15R4tZTi1bH1YjE1n5BxzcvGHpeBOih5SQ=
+  type_code : 1
+  p_codes :
+   -
+     code : |1+
+      
+      CONSTANTE
+      	ZONE_MEMOIRE_NOM    = "ZoneMemoirePartage"
+      	ZONE_MEMOIRE_TAILLE = 1024
+      FIN
+   -
+     code : |1-
+      
+      SI LigneCommande("LECTURE") = 1 ALORS
+      	Info(<§$0004§>)
+      	
+      	SI fMemExiste(ZONE_MEMOIRE_NOM) ALORS
+      		nHandle est un entier = fMemOuvre(ZONE_MEMOIRE_NOM, ZONE_MEMOIRE_TAILLE)
+      		Info(<§$0000§>+RC, fLit(nHandle, ZONE_MEMOIRE_TAILLE))
+      		
+      		GR_LECTURE..Etat = Grisé
+      	SINON
+      		Erreur(<§$0003§>)
+      		Ferme()
+      	FIN
+      FIN
+     type : 34
+   -
+     type : 180
+     enabled : false
+   -
+     type : 230
+     enabled : false
+   -
+     code : |1+
+      
+      
+     type : 2
+   -
+     code : |1+
+      
+      
+     type : 11
+   -
+     code : |1+
+      
+      
+     type : 12
+   -
+     code : |1+
+      
+      
+     type : 17
+   -
+     code : |1+
+      
+      
+     type : 13
+ code_parameters :
+  internal_properties : CAAAAAgAAAAspXRQsX4kpYpRJzI8SMGEUfXYJhQeqig0H9mPZLI9hoPnkeFEnSQ8t7JVd8VUY9eLyST/2DyAYB+9rK7lbHVOclfSdkhgAQ9dNjlmStKMpPl9
+  original_name : Modele1
+resources :
+ string_res :
+  identifier : 0x1b06da940001a3ee
+  internal_properties : CAAAAAgAAACyXVFaObH4lOGSEHJoZf1MD49w+XTw2LScZCP/urkWFwy+HYJdyQ3umA==
+  strings :
+   -
+     text :
+      fr-FR : "Une zone mémoire existe, la valeur de la zone mémoire est :"
+     index : 0
+   -
+     text :
+      fr-FR : La zone mémoire de partage n'a pas encore été créée !
+     index : 1
+   -
+     text :
+      fr-FR : "Une zone mémoire existe, la valeur de la zone mémoire est :"
+     index : 2
+   -
+     text :
+      fr-FR : Aucune zone mémoire partagée n'a été créée !
+     index : 3
+   -
+     text :
+      fr-FR : Ceci est une nouvelle instance de l'application !
+     index : 4
+   -
+     text :
+      fr-FR : La zone mémoire a été supprimé
+     index : 5
+   -
+     text :
+      fr-FR : Mémoire partagée écrite et créée !
+     index : 6
+   -
+     text :
+      fr-FR : Vous devez saisir des données !
+     index : 7
+custom_note :
+ internal_properties : CAAAAAgAAAC68/W0/adbG0nFCRhrE42B5HRnbDzVHaz86sSQyxlBk7I=
+associated_test :
+ name : TEST_Principale.wxt
+rad :
+ internal_properties : CAAAAAgAAABoAN7PLpwJW3EiA7WVZdCA5EwrCA1rvutcDHooMWKe

@@ -1,0 +1,91 @@
+#To edit and compare internal_properties, use WINDEV integrated tools.
+#Internal properties refer to the properties of controls in windows, reports, etc.
+info :
+ name : WD PartageMemoire
+ major_version : 28
+ minor_version : 0
+ type : 4097
+ description : ""
+ subtype : 0
+project :
+ identifier : 0x0
+ internal_properties : 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
+ configurations :
+  -
+    name : WD PartageMemoire
+    internal_properties : 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
+    configuration_id : 10085203093031118764
+    type : 1
+    generation_name : WD PartageMemoire.exe
+    version :
+     version : VI200030B
+     autoincrement_version : false
+    icon_filename : .\icone.ico
+    language : 1
+    new_features_help :
+     name : ""
+     internal_properties : CAAAAAgAAAARmS5sl/Cx1RExQgSNmo8AE80UTh8/F9q9wyt5DkjfuZd+o9qT69em1caV/xSamAlZ4SNyClg+0NQCDg==
+ elements :
+  identifier : 0x4b06d7dc000201b6
+  elements :
+   -
+     name : WinDevMessageBox
+     identifier : 0x45fc16df00337abf
+     internal_properties : CAAAAAgAAAA6EGKmBULq9f8supPL2R9KAmXRwX2OE2qhpcpl8Q4G6i6cJ0PjZZpcoIV/eTm3Q7UfJw==
+     physical_name : .\WinDevMessageBox.WDW
+     type : 2
+   -
+     name : TEST_Principale
+     identifier : 0x4b13dde7000d36ae
+     internal_properties : CAAAAAgAAAAEAmxIdyyEp7BUSlKv/Bj94N1f1+0GLkutBs8gMu2nGe/DAwzxz/Gv3UexD5dJMacREQ==
+     physical_name : .\TEST_Principale.wxt
+     type : 17
+   -
+     name : FEN_Principale
+     identifier : 0x4b06daa00009d1d1
+     internal_properties : CAAAAAgAAABbNwMHpOHJ0p1x03+Eojt8S8hGniwrxsZS2tQG/C/nKes1j/Ac5AxIumReWtoW4tY+xg==
+     physical_name : .\FEN_Principale.wdw
+     type : 2
+   -
+     name : WinDevDialogBox
+     identifier : 0x45fc16df003b7ba9
+     internal_properties : CAAAAAgAAAAO1/lYscN2Wtt+iw/vv2XbIbP3YEjeTyZzNX9/7mXRRcWQXpR23yvOPdUCN1OD+Q==
+     physical_name : .\WinDevDialogBox.WDW
+     type : 2
+  other_elements : []
+  net_assemblies : []
+  uwp_api : []
+  external_components : []
+  internal_components : []
+ report_and_queries_enabled : false
+ common_generation_directory : true
+ languages :
+  - fr-FR
+ code_elements :
+  internal_properties : CAAAAAgAAAAySygPcZ4GJX0P6OaZtGImf6VeIpQpJLYsyy6IpEyeB4oR6+2AWanMnxYyL8kUO6ZLoCf7gRyLXo4A3BCx9g==
+  type_code : 0
+  p_codes :
+   -
+     type : 196621
+   -
+     type : 196627
+     enabled : false
+  orphans :
+   -
+     name : WD PartageMemoire
+     identifier : 0x4b06d7dc00030214
+     code_elements :
+      type_code : 159
+      p_codes : []
+ code_parameters :
+  internal_properties : CAAAAAgAAACVGQgYbalU7DKC3oH4ItDrjtcTHXXV/EuH8q0IbhyQlw==
+rad :
+ internal_properties : CAAAAAgAAABhIL0UXeZmxDJxY3Xy0Q==
+project_explorer :
+ explorer_type : project
+resources :
+ string_res :
+  identifier : 0x0
+  internal_properties : CAAAAAgAAACm76HWfKGWp33VjXInA4cRlqArlgTTA862QGt72W2ld5Y=
+custom_note :
+ internal_properties : CAAAAAgAAAAd98VSJfHHqE3P0QHwrwdhn7ig8dWBR6valpUTgnAMTVXiDg==
